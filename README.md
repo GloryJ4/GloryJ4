@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GloryJ4
 - 👀 I’m interested in computer technology 
-- 🌱 I’m currently learning all the basics 
-- 💞️ I’m looking to collaborate on the complex areas 
+- 🌱 I’m currently learning coding and all about website development 
+- 💞️ I’m looking to collaborate with experienced tech specialists 
 - 📫 How to reach me 0113936008
 - ⚡ Fun fact: I love reading and watching movies
 
